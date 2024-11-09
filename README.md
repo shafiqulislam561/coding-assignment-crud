@@ -1,2 +1,2 @@
 # coding-assignment-crud
-CRUD app coding assignment
+Django CRUD app for coding assignment
